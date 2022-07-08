@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471826449799",
+    "project_id": "surf-diary-blmk",
+    "storage_bucket": "surf-diary-blmk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471826449799:android:a39114e24c721b4acdbf22",
+        "android_client_info": {
+          "package_name": "com.blmkstudio.surf_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471826449799-8kv7gdn6ppns444baundl0fei5tfn3hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blmkstudio.surf_diary",
+            "certificate_hash": "be77459c258d45206469fdac827133b7ad342fc2"
+          }
+        },
+        {
+          "client_id": "471826449799-j6n3lb5fniga7crbmn9pckcujea78eku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Yl8pea3cfMGKnmnhcvJ1dGgAbY2lwkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471826449799-j6n3lb5fniga7crbmn9pckcujea78eku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
